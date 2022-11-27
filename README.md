@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EduardoCamiloh,tenho 26 anos, atualmente estudo programação e sou apaixonado pelo que faço,
+- 👋 Hi, I’m @EduardoCamiloh,tenho 26 anos, atualmente estudo programação e sou apaixonado pelo que faço, e estou disposto a aprender.
 - 👀 I’m interested in adiquirir conheceimento,  de poder agregar e  disposto a aprender com o objetivo de me realizar profissionalmente.
 - 🌱 I’m currently learning, framework flutter.
 - 💞️ I’m looking to collaborate on em tudo o que estiver ao meu alcançe.
